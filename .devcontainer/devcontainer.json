@@ -1,0 +1,10 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/gradle-sdkman:2": {
+			"version": "latest",
+			"jdkVersion": "17.0.3",
+			"jdkDistro": "tem"
+		}
+	}
+}
